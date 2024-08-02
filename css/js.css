@@ -1,0 +1,24 @@
+
+.count-area {
+  position: relative;
+  background:transparent;
+  text-align: center;
+  color: #fff;
+  margin-top: 100px;
+}
+.count-area-content {
+  width: 30%;
+}
+
+.count-digit {
+  margin: 20px 10px 0;
+  color: #fff;
+  font-weight: 700;
+  font-size: 48px;
+}
+.count-title {
+  font-size: 20px;
+  margin: 0 10px;
+  color:grey;
+
+}
